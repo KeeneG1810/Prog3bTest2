@@ -13,6 +13,6 @@ jobs:
     - name: Setup .NET Framework
       uses: microsoft/setup-msbuild@v1
     - name: Install NuGet dependencies
-      run: nuget restore GitActionsTester.sln
+      run: nuget restore GitPush.sln
     - name: Build project
       run: msbuild GitPush.sln /p:Configuration=Release
