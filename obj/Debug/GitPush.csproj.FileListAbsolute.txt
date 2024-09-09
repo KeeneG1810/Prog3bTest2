@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\GitPush\bin\Debug\GitPush.exe.config
+C:\Users\user\source\repos\GitPush\bin\Debug\GitPush.exe
+C:\Users\user\source\repos\GitPush\bin\Debug\GitPush.pdb
+C:\Users\user\source\repos\GitPush\obj\Debug\GitPush.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GitPush\obj\Debug\GitPush.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GitPush\obj\Debug\GitPush.exe
+C:\Users\user\source\repos\GitPush\obj\Debug\GitPush.pdb
